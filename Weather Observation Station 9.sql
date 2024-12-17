@@ -1,0 +1,1 @@
+SELECT DISTINCT CITY FROM STATION WHERE CITY LIKE '[B, C, D, F, G, H, J, K, L, M, N, P, Q, R, S, T, V, W, X, Y, Z]%'
